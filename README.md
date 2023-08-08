@@ -26,3 +26,8 @@ O protagonista do jogo é um vianjante no tempo, que em um acidente com sua máq
 <p align="justify">
 Os unicos elementos presentes na cena serão grandes blocos que serão as plataformas que o jogador irá usar, abaixo das plataformas terá o chão que mata o personagem caso ele tenha contato com o mesmo, o príncipi dos elementos serão os mesmo em todas as fases, mas mudando as texturas, tamanho e posições.
 </p>
+
+## Aplicativo Mobile
+<p align="justify">
+Sendo o jogo separado em três épocas diferentes: pré-história, medieval e futurista, o aplicativo mobile será uma Wiki contendo algumas informações que contam sobre os três lugares em que o personagem irá parar(sendo o futurista com informações fictícias). Haverá o menu principal com os três botões que levam as repectivas janelas com textos e imagens das diferentes épocas.
+</p>
