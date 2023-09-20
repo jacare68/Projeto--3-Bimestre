@@ -29,5 +29,5 @@ Os unicos elementos presentes na cena serão grandes blocos que serão as plataf
 
 ## Aplicativo Mobile
 <p align="justify">
-Sendo o jogo separado em três épocas diferentes: pré-história, medieval e futurista, o aplicativo mobile será uma Wiki contendo algumas informações que contam sobre os três lugares em que o personagem irá parar(sendo o futurista com informações fictícias). Haverá o menu principal com os três botões que levam as repectivas janelas com textos e imagens das diferentes épocas.
+Sendo o jogo separado em três épocas diferentes: pré-história, egito antigo e futurista, o aplicativo mobile será uma Wiki contendo algumas informações que contam sobre os três lugares em que o personagem irá parar(sendo o futurista com informações fictícias). Haverá o menu principal com os três botões que levam as repectivas janelas com textos e imagens das diferentes épocas.
 </p>
