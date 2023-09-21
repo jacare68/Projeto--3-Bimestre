@@ -1,5 +1,0 @@
-sceneSetups:
-- path: "Assets/Scenes/pr\xE9-hist\xF3ria.unity"
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
